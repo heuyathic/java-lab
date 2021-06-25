@@ -1,4 +1,4 @@
-package com.heuyathic.javalab;
+package com.heuyathic.javalab.effective;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
